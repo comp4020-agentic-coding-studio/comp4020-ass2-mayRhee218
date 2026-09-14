@@ -40,13 +40,6 @@ Through these essay-based assessments, students will develop the ability to
 support their ideas with logical evidence, rather than simply memorizing
 information.
 
-The decision that carried over into the harness is the same one underneath
-all of this: don't take a representation at face value, check it against the
-real thing. `CLAUDE.md`'s rule to verify a title against the drama's actual
-release rather than trust an assumed romanisation is a narrow, mechanical
-version of exactly what I'm asking students to do to the dramas themselves —
-hold a claim up against reality before treating it as evidence.
-
 ## How I got here
 
 I started from the starter template's contract tests
