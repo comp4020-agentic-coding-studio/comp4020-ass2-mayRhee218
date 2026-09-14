@@ -7,6 +7,7 @@ week: 3
 date: 2027-03-08
 teachers:
   - may-rhee
+slides: /decks/week-03/
 related:
   - sessions/03-crash-landing-on-you
 ---

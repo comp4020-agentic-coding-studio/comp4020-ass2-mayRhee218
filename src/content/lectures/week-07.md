@@ -7,6 +7,7 @@ week: 7
 date: 2027-04-05
 teachers:
   - may-rhee
+slides: /decks/week-07/
 related:
   - sessions/07-sky-castle
 ---

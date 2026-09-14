@@ -7,6 +7,7 @@ week: 2
 date: 2027-03-01
 teachers:
   - may-rhee
+slides: /decks/week-02/
 related:
   - sessions/02-kpop-demon-hunters
 ---

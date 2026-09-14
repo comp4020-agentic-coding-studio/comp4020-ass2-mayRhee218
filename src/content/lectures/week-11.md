@@ -7,6 +7,7 @@ week: 11
 date: 2027-05-03
 teachers:
   - may-rhee
+slides: /decks/week-11/
 related:
   - sessions/11-my-id-is-gangnam-beauty
 ---

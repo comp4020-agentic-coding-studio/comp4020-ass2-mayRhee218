@@ -7,6 +7,7 @@ week: 4
 date: 2027-03-15
 teachers:
   - may-rhee
+slides: /decks/week-04/
 related:
   - sessions/04-when-life-gives-you-tangerines
 ---

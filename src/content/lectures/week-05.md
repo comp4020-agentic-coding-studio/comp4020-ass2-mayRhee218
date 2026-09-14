@@ -7,6 +7,7 @@ week: 5
 date: 2027-03-22
 teachers:
   - may-rhee
+slides: /decks/week-05/
 related:
   - sessions/05-coffee-prince
 ---
