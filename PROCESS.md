@@ -11,6 +11,42 @@ right about its period or setting and what it invents, and the assessment
 essay) tracks that same question across the semester's recurring themes —
 division, hierarchy, work, gender, status, appearance.
 
+## What a good course looks like
+
+As Korean dramas expand globally, many people are indirectly experiencing
+Korean culture by watching them. However, in some cases, these dramas do not
+accurately reflect reality, or they often heavily exaggerate it even when
+they do.
+
+This course is designed to help students indirectly understand Korean
+culture through dramas, while also building media literacy by identifying
+exaggerated elements through the direct experiences of a Korean professor.
+
+The selected dramas are not just simple romances or story-driven shows; they
+were chosen for how well they showcase Korean society, history, and culture.
+
+Each week, students will watch a drama through a screening, listen to a
+lecture explaining it, and write a short report expressing their opinions
+based on the lesson.
+
+For the Close Analysis Essay, students will choose one of the dramas watched
+between Weeks 1 and 6 and provide evidence demonstrating how certain aspects
+were distorted or overly romanticized compared to actual Korean culture.
+
+For the Final Comparative Essay, students will write a comparative analysis
+of two dramas centered around a specific theme.
+
+Through these essay-based assessments, students will develop the ability to
+support their ideas with logical evidence, rather than simply memorizing
+information.
+
+The decision that carried over into the harness is the same one underneath
+all of this: don't take a representation at face value, check it against the
+real thing. `CLAUDE.md`'s rule to verify a title against the drama's actual
+release rather than trust an assumed romanisation is a narrow, mechanical
+version of exactly what I'm asking students to do to the dramas themselves —
+hold a claim up against reality before treating it as evidence.
+
 ## How I got here
 
 I started from the starter template's contract tests
