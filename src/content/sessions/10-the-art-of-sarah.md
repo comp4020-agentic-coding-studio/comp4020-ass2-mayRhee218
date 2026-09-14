@@ -1,5 +1,5 @@
 ---
-title: "Screening 10: Lady Dua"
+title: "Screening 10: The Art of Sarah"
 description:
   A counterfeit-luxury scam, and what its ease tells us about status and
   visibility rather than about "materialism" in general
@@ -7,6 +7,11 @@ week: 10
 date: 2027-04-26
 teachers:
   - marisol-quaye
+poster: ./the-art-of-sarah.webp
+posterAlt:
+  Collage-style promotional poster for The Art of Sarah, showing a woman's
+  face partly obscured by a folded document, with a luxury handbag tagged
+  like police evidence
 spec:
   - you have watched the assigned episodes before arriving
   - you can name one real brand or price the drama uses to ground its

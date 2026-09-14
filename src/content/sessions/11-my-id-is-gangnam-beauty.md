@@ -1,5 +1,5 @@
 ---
-title: "Screening 11: Gangnam Beauty"
+title: "Screening 11: My ID Is Gangnam Beauty"
 description:
   A transformation story, and the live debate about cosmetic surgery it walks
   straight into
@@ -7,6 +7,10 @@ week: 11
 date: 2027-05-03
 teachers:
   - marisol-quaye
+poster: ./my-id-is-gangnam-beauty.webp
+posterAlt:
+  Promotional poster for My ID Is Gangnam Beauty, showing the smiling lead
+  holding books in the foreground with two classmates behind her
 spec:
   - you have watched the assigned episodes before arriving
   - you can name one social pressure the show depicts beyond the surgery

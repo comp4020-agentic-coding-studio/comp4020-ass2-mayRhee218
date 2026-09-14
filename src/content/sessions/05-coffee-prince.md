@@ -7,6 +7,10 @@ week: 5
 date: 2027-03-22
 teachers:
   - marisol-quaye
+poster: ./coffee-prince.jpeg
+posterAlt:
+  Promotional poster for The 1st Shop of Coffee Prince, showing the two leads
+  seated together outdoors, one holding a cup of coffee
 spec:
   - you have watched the assigned episodes before arriving
   - you can state the discussion's ground rule in your own words --- represents,

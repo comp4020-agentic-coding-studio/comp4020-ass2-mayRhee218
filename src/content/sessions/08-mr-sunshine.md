@@ -7,6 +7,10 @@ week: 8
 date: 2027-04-12
 teachers:
   - marisol-quaye
+poster: ./mr-sunshine.webp
+posterAlt:
+  Promotional poster for Mr. Sunshine, showing five leads in period hanbok
+  and military dress standing in an ornate, dimly lit interior
 spec:
   - you have watched the assigned episodes before arriving
   - you can name one historical fact the drama draws on, with a source other

@@ -1,5 +1,5 @@
 ---
-title: "Lady Dua: Materialism and Consumer Culture in Korea"
+title: "The Art of Sarah: Materialism and Consumer Culture in Korea"
 description:
   A counterfeit-luxury scam thriller, and why status goods carry so much
   weight in the story it tells
@@ -8,10 +8,10 @@ date: 2027-04-26
 teachers:
   - marisol-quaye
 related:
-  - sessions/10-lady-dua
+  - sessions/10-the-art-of-sarah
 ---
 
-Lady Dua (레이디 두아) follows a woman who turns a debt crisis into a counterfeit
+The Art of Sarah (레이디 두아) follows a woman who turns a debt crisis into a counterfeit
 luxury-goods scheme, selling a fictional brand built to pass as real to Korea's
 upper class and entertainment industry. The scam only works because the desire
 for the genuine article is so strong that almost no one stops to check --- which

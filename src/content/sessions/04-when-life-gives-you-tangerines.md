@@ -7,6 +7,10 @@ week: 4
 date: 2027-03-15
 teachers:
   - marisol-quaye
+poster: ./when-life-gives-you-tangerines.webp
+posterAlt:
+  Promotional poster for When Life Gives You Tangerines, showing a couple in
+  vintage uniforms standing together in a field of yellow flowers
 spec:
   - you have watched the assigned episodes before arriving
   - you can identify one expectation placed on a parent or child that a later

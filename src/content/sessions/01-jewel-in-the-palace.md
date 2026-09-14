@@ -7,6 +7,10 @@ week: 1
 date: 2027-02-22
 teachers:
   - marisol-quaye
+poster: ./jewel-in-the-palace.webp
+posterAlt:
+  Promotional poster for Jewel in the Palace, showing a woman in a teal and
+  navy hanbok with a red hair ribbon, in profile against a deep red background
 spec:
   - you have watched the assigned Jewel in the Palace episodes before arriving
   - you can name one dish or kitchen ritual the episode uses to mark rank

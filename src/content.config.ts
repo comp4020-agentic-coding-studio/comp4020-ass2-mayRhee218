@@ -34,13 +34,25 @@ const holisticMarking = z.object({
 export const collections = {
   sessions: defineCollection({
     loader: courseNodeLoader("sessions"),
-    schema: courseNodeSchema
-      .extend({
-        week: weekSchema,
-        date: z.coerce.date(),
-        teachers: teacherRefs.optional(),
-      })
-      .loose(),
+    schema: ({ image }) =>
+      courseNodeSchema
+        .extend({
+          week: weekSchema,
+          date: z.coerce.date(),
+          teachers: teacherRefs.optional(),
+          poster: image().optional(),
+          posterAlt: z.string().trim().optional(),
+        })
+        .loose()
+        .superRefine((session, ctx) => {
+          if (session.poster && !session.posterAlt) {
+            ctx.addIssue({
+              code: "custom",
+              path: ["posterAlt"],
+              message: "describe the poster when one is supplied",
+            });
+          }
+        }),
   }),
 
   assessments: defineCollection({

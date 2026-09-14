@@ -6,6 +6,10 @@ week: 2
 date: 2027-03-01
 teachers:
   - marisol-quaye
+poster: ./kpop-demon-hunters.jpg
+posterAlt:
+  Promotional poster for KPop Demon Hunters, showing three animated idol
+  characters in white and gold stage outfits against a pastel gradient
 spec:
   - you have watched the assigned episodes before arriving
   - you can describe one production choice (staging, styling, choreography)

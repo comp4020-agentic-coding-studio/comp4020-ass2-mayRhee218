@@ -6,6 +6,10 @@ week: 7
 date: 2027-04-05
 teachers:
   - marisol-quaye
+poster: ./sky-castle.webp
+posterAlt:
+  Promotional poster for SKY Castle, showing five women in formal black
+  attire posed together in a studio portrait
 spec:
   - you have watched the assigned episodes before arriving
   - you can name one moment the show plays for satire and say what real

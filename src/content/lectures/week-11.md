@@ -1,5 +1,5 @@
 ---
-title: "Gangnam Beauty: Plastic Surgery, Beauty Standards, and Appearance"
+title: "My ID Is Gangnam Beauty: Plastic Surgery, Beauty Standards, and Appearance"
 description:
   A high-school transformation story, and the debates around cosmetic surgery
   it walks straight into
@@ -8,7 +8,7 @@ date: 2027-05-03
 teachers:
   - marisol-quaye
 related:
-  - sessions/11-gangnam-beauty
+  - sessions/11-my-id-is-gangnam-beauty
 ---
 
 My ID Is Gangnam Beauty (내 ID는 강남미인) follows a student who has undergone
