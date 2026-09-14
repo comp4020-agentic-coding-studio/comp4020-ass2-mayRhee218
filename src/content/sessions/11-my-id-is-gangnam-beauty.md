@@ -6,7 +6,7 @@ description:
 week: 11
 date: 2027-05-03
 teachers:
-  - marisol-quaye
+  - may-rhee
 poster: ./my-id-is-gangnam-beauty.webp
 posterAlt:
   Promotional poster for My ID Is Gangnam Beauty, showing the smiling lead

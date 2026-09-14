@@ -6,7 +6,7 @@ description:
 week: 9
 date: 2027-04-19
 teachers:
-  - marisol-quaye
+  - may-rhee
 related:
   - sessions/09-reply-1988
 ---

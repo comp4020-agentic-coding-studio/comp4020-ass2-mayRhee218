@@ -6,7 +6,7 @@ description:
 week: 8
 date: 2027-04-12
 teachers:
-  - marisol-quaye
+  - may-rhee
 poster: ./mr-sunshine.webp
 posterAlt:
   Promotional poster for Mr. Sunshine, showing five leads in period hanbok

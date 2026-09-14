@@ -1,17 +1,17 @@
 ---
-title: Marisol Quaye
+title: May Rhee
 description:
   Convenor and sole instructor, teaching all twelve weeks from a single
   drama-by-drama syllabus of her own design.
 affiliation: Slop University School of Invented Disciplines
 role: convenor
-email: marisol.quaye@slop.university
+email: may.rhee@slop.university
 contact: Email for anything that can wait; raise it in the screening if it can't.
-photo: ./marisol-quaye.jpg
-photoAlt: Marisol Quaye, arms folded, looking directly at the camera against a warm orange wall
+photo: ./may-rhee.jpg
+photoAlt: May Rhee, arms folded, looking directly at the camera against a warm orange wall
 ---
 
-Marisol designed this course after noticing how much of her own understanding
+May designed this course after noticing how much of her own understanding
 of Korea came from watching television she'd originally put on for fun. She
 teaches every screening herself, which is also why the syllabus only runs one
 drama at a time: twelve weeks is already a lot of television to hold a

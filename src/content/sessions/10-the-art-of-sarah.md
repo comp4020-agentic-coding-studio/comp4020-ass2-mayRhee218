@@ -6,7 +6,7 @@ description:
 week: 10
 date: 2027-04-26
 teachers:
-  - marisol-quaye
+  - may-rhee
 poster: ./the-art-of-sarah.webp
 posterAlt:
   Collage-style promotional poster for The Art of Sarah, showing a woman's

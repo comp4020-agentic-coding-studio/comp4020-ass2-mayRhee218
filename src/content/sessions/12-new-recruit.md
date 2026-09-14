@@ -6,7 +6,7 @@ description:
 week: 12
 date: 2027-05-10
 teachers:
-  - marisol-quaye
+  - may-rhee
 poster: ./new-recruit.jpg
 posterAlt:
   Promotional poster for New Recruit, showing a group of soldiers in

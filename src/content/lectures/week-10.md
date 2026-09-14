@@ -6,7 +6,7 @@ description:
 week: 10
 date: 2027-04-26
 teachers:
-  - marisol-quaye
+  - may-rhee
 related:
   - sessions/10-the-art-of-sarah
 ---

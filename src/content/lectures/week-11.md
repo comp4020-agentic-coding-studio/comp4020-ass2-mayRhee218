@@ -6,7 +6,7 @@ description:
 week: 11
 date: 2027-05-03
 teachers:
-  - marisol-quaye
+  - may-rhee
 related:
   - sessions/11-my-id-is-gangnam-beauty
 ---

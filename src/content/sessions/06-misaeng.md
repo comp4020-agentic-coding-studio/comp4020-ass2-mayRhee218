@@ -6,7 +6,7 @@ description:
 week: 6
 date: 2027-03-29
 teachers:
-  - marisol-quaye
+  - may-rhee
 poster: ./misaeng.webp
 posterAlt:
   Promotional poster for Misaeng, showing office coworkers celebrating with

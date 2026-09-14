@@ -6,7 +6,7 @@ description:
 week: 12
 date: 2027-05-10
 teachers:
-  - marisol-quaye
+  - may-rhee
 related:
   - sessions/12-new-recruit
 ---

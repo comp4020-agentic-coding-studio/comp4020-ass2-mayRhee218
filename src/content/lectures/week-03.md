@@ -6,7 +6,7 @@ description:
 week: 3
 date: 2027-03-08
 teachers:
-  - marisol-quaye
+  - may-rhee
 related:
   - sessions/03-crash-landing-on-you
 ---

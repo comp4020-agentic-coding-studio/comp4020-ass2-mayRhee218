@@ -6,7 +6,7 @@ description:
 week: 4
 date: 2027-03-15
 teachers:
-  - marisol-quaye
+  - may-rhee
 related:
   - sessions/04-when-life-gives-you-tangerines
 ---

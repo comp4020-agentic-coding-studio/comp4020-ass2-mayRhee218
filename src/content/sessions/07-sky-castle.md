@@ -5,7 +5,7 @@ description:
 week: 7
 date: 2027-04-05
 teachers:
-  - marisol-quaye
+  - may-rhee
 poster: ./sky-castle.webp
 posterAlt:
   Promotional poster for SKY Castle, showing five women in formal black

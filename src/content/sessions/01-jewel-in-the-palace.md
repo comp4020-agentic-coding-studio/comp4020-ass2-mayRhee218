@@ -6,7 +6,7 @@ description:
 week: 1
 date: 2027-02-22
 teachers:
-  - marisol-quaye
+  - may-rhee
 poster: ./jewel-in-the-palace.webp
 posterAlt:
   Promotional poster for Jewel in the Palace, showing a woman in a teal and

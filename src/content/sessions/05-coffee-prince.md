@@ -6,7 +6,7 @@ description:
 week: 5
 date: 2027-03-22
 teachers:
-  - marisol-quaye
+  - may-rhee
 poster: ./coffee-prince.jpeg
 posterAlt:
   Promotional poster for The 1st Shop of Coffee Prince, showing the two leads

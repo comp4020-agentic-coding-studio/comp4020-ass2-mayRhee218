@@ -6,7 +6,7 @@ description:
 week: 1
 date: 2027-02-22
 teachers:
-  - marisol-quaye
+  - may-rhee
 slides: /decks/week-01/
 related:
   - sessions/01-jewel-in-the-palace

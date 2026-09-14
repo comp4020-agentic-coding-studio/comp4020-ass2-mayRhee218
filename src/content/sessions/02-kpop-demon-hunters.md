@@ -5,7 +5,7 @@ description:
 week: 2
 date: 2027-03-01
 teachers:
-  - marisol-quaye
+  - may-rhee
 poster: ./kpop-demon-hunters.jpg
 posterAlt:
   Promotional poster for KPop Demon Hunters, showing three animated idol
