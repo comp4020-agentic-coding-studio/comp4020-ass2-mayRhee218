@@ -1,53 +1,23 @@
 # Process overview
 
-I decided early that a good version of this course would treat Korean
-dramas as flawed evidence rather than documentary: dramas are how a lot of
-people now experience Korean culture at all, but they exaggerate even when
-they're trying not to, so the course's job is to teach students to hold a
-drama up against reality rather than absorb it. That's why the assessments
-are essay-based rather than recall-based — the Close Analysis Essay asks for
-evidence of where one drama distorted reality, the Final Comparative Essay
-compares two dramas against a theme — and it's the same instinct that ended
-up steering how I directed the agent, not just what I asked it to build.
+I decided early that a good version of this course should treat Korean dramas as imperfect evidence, not as documentaries. Many people learn about Korean culture through dramas, but dramas often exaggerate or change real life for entertainment. So, the main goal of this course is to teach students to compare what they see in dramas with reality.
+
+This idea also shaped the assessments. They focus on analysis rather than memorising facts. The Close Analysis Essay asks students to find examples of how one drama changes or exaggerates reality. The Final Comparative Essay asks students to compare two dramas through a cultural theme. This same idea also guided how I worked with the agent, not just what I asked it to build.
 
 The starter's contract tests
 ([`a3d786b`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/a3d786b))
-only check shape: a real course code, twelve distinct weeks, one lecture
-with a real deck, weights summing to 100. Passing those was easy once I'd
-built out the actual syllabus
+only check the basic structure: a valid course code, twelve different weeks, one lecture with a real deck, and assessment weights that add up to 100%. These were easy to pass once I built the main course structure
 ([`32f8642`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/32f8642))
-— one instructor, twelve sessions and lectures, three assessments, real
-policies. But shape isn't the vision. Nothing in that check cares whether
-the content is *true*, and that gap is where directing this particular
-course actually changed what I accepted from the agent.
+— one instructor, twelve sessions and lectures, three assessments, and course policies. But passing these checks does not mean the course is good. They do not check whether the content is true. This difference became important when I decided what I would and would not accept from the agent.
 
-Twice I caught the agent handing back something technically complete but
-wrong in a way that undercut the course's own premise. The first was two
-drama titles that were literal romanisations rather than the shows' real
-English release titles — an irony I couldn't let stand in a course about
-checking claims against reality, so I sent the correction and had it verify
-both against their actual releases before touching anything downstream
+Twice, I found problems that were technically complete but did not fit the main idea of the course. First, two drama titles were written as simple romanisations instead of their real English release titles. This was especially important because the course is about checking what dramas show against reality. I corrected the titles and asked the agent to check the official English titles before making other changes
 ([`6be18b6`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/6be18b6)).
-The second was generic stock art standing in for the hero and social card,
-and a stand-in instructor who didn't fit a course built around "the direct
-experience of a Korean professor." I asked for both to be fixed properly —
-real, brand-matched art and a real portrait
+The second problem was the use of generic stock images for the hero and social card. The instructor was also a placeholder who did not fit the idea of a course taught by a Korean professor. I asked the agent to replace these with better, course-specific images and a proper portrait
 ([`e89671e`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/e89671e),
 [`4810c26`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/4810c26)),
-then a convener who actually is Korean
+and then changed the instructor to someone who is actually Korean
 ([`1476a37`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/1476a37)).
-Each time, the standard I was holding the agent to was the same one the
-syllabus holds the dramas to.
 
-The one piece of that standard I encoded directly into the harness is
-`CLAUDE.md`'s rule to verify a title or name against the real thing —
-a web search against the actual release — rather than trust an assumed
-romanisation or whatever spelling I happened to type. It's a narrow,
-mechanical version of exactly what I'm asking students to do to the dramas
-themselves. What I deliberately didn't encode is any `spec/` check for
-factual accuracy: whether a drama's portrayal of Korean society counts as
-"accurate" or "exaggerated" is a judgment call, not an invariant a test can
-assert, so that stays something I look at directly rather than something
-`pnpm check` can enforce. `pnpm check` and `pnpm check:evidence` were the
-floor throughout, never the ceiling — green just meant I hadn't broken
-anything yet, not that the content was honest.
+In `CLAUDE.md`, I told the agent to check titles and names against real sources, instead of trusting a guessed romanisation or spelling. This is a simple technical version of what I want students to do when they study the dramas.
+
+However, I deliberately did not create a `spec/` check for factual accuracy. Whether a drama's portrayal of Korean society is "accurate" or "exaggerated" is often a matter of judgement. It is not something a simple automated test can decide. That is why I chose to check it myself rather than make `pnpm check` decide it. 
