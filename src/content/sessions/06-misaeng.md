@@ -11,6 +11,7 @@ poster: ./misaeng.webp
 posterAlt:
   Promotional poster for Misaeng, showing office coworkers celebrating with
   papers thrown in the air around a meeting table
+slides: /decks/screening-06/
 spec:
   - you have watched the assigned episodes before arriving
   - you can describe the contract-versus-permanent distinction and why it

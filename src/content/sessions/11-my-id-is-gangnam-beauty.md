@@ -11,6 +11,7 @@ poster: ./my-id-is-gangnam-beauty.webp
 posterAlt:
   Promotional poster for My ID Is Gangnam Beauty, showing the smiling lead
   holding books in the foreground with two classmates behind her
+slides: /decks/screening-11/
 spec:
   - you have watched the assigned episodes before arriving
   - you can name one social pressure the show depicts beyond the surgery

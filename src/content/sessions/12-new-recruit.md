@@ -11,6 +11,7 @@ poster: ./new-recruit.jpg
 posterAlt:
   Promotional poster for New Recruit, showing a group of soldiers in
   camouflage and berets against a dark, dust-lit background
+slides: /decks/screening-12/
 spec:
   - you have watched the assigned episodes before arriving
   - you can name one way the show's hierarchy echoes an institution from an

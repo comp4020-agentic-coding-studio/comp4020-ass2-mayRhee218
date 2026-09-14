@@ -11,6 +11,7 @@ poster: ./jewel-in-the-palace.webp
 posterAlt:
   Promotional poster for Jewel in the Palace, showing a woman in a teal and
   navy hanbok with a red hair ribbon, in profile against a deep red background
+slides: /decks/screening-01/
 spec:
   - you have watched the assigned Jewel in the Palace episodes before arriving
   - you can name one dish or kitchen ritual the episode uses to mark rank

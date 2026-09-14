@@ -11,6 +11,7 @@ poster: ./crash-landing-on-you.webp
 posterAlt:
   Promotional poster for Crash Landing on You, showing the four leads standing
   together in front of the Seoul skyline at dusk
+slides: /decks/screening-03/
 spec:
   - you have watched the assigned episodes before arriving
   - you can name one detail the drama gets right about everyday life on either

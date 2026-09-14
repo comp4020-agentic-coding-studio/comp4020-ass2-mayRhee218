@@ -12,6 +12,7 @@ posterAlt:
   Collage-style promotional poster for The Art of Sarah, showing a woman's
   face partly obscured by a folded document, with a luxury handbag tagged
   like police evidence
+slides: /decks/screening-10/
 spec:
   - you have watched the assigned episodes before arriving
   - you can name one real brand or price the drama uses to ground its

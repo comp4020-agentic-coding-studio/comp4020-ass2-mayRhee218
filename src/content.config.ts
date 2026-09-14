@@ -42,6 +42,10 @@ export const collections = {
           teachers: teacherRefs.optional(),
           poster: image().optional(),
           posterAlt: z.string().trim().optional(),
+          slides: z
+            .string()
+            .regex(/^\/decks\/[a-z0-9-]+\/$/)
+            .optional(),
         })
         .loose()
         .superRefine((session, ctx) => {
