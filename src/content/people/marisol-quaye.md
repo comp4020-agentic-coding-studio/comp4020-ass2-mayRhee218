@@ -1,21 +1,23 @@
 ---
 title: Marisol Quaye
 description:
-  The founding convenor, responsible for the course's shape and its weekly
-  teaching programme.
+  Convenor and sole instructor, teaching all twelve weeks from a single
+  drama-by-drama syllabus of her own design.
 affiliation: Slop University School of Invented Disciplines
 role: convenor
 email: marisol.quaye@slop.university
-contact: Email for course-level questions; use the weekly session for feedback on work.
+contact: Email for anything that can wait; raise it in the screening if it can't.
 photo: ./marisol-quaye.avif
 photoAlt: A stylised portrait of a person in three-quarter view, flat gold and black shapes on warm cream, in a two-ink risograph print
 ---
 
-<!-- STARTER_CONTENT: replace this person entry, then remove this comment. -->
+Marisol designed this course after noticing how much of her own understanding
+of Korea came from watching television she'd originally put on for fun. She
+teaches every screening herself, which is also why the syllabus only runs one
+drama at a time: twelve weeks is already a lot of television to hold a
+classroom's attention through.
 
-Replace this entry. A people page carries a short bio and whatever a student
-needs in order to contact the right person for the right thing --- and nothing
-that will be stale by week 3.
-
-Consultation hours, contact preferences and the escalation path (who to ask
-first, who to ask when that does not work) are the parts students actually read.
+Office hours are informal --- email to find a time, or catch her for five
+minutes after a screening. Written feedback on essays comes back within two
+weeks; anything urgent enough not to wait for that should go by email, subject
+line first.

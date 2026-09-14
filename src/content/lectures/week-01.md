@@ -1,30 +1,42 @@
 ---
-title: Opening lecture
+title: "Jewel in the Palace: Korean Food Culture and Traditional Medicine"
 description:
-  The first lecture — what the course is, why it is shaped this way, and what
-  happens in week 1
+  Royal cuisine, Joseon-era medicine, and food as social hierarchy, through the
+  drama that made a court kitchen the setting for a whole society
 week: 1
 date: 2027-02-22
 teachers:
   - marisol-quaye
 slides: /decks/week-01/
 related:
-  - sessions/01-getting-started
+  - sessions/01-jewel-in-the-palace
 ---
 
-<!-- STARTER_CONTENT: replace this lecture, then remove this comment. -->
+Daejanggeum (대장금) --- Jewel in the Palace --- follows an orphan who rises
+through the Joseon royal kitchens to become the king's personal physician. The
+premise sounds like fantasy; the setting is closer to documentary than most of
+what we'll watch this semester. This week uses the show's obsessive food detail
+as a way into how food, medicine, and rank interlocked in Joseon Korea, and how
+much of what the drama presents as historical fact is actually the writers
+filling gaps the record leaves open.
 
-Replace this page. A lecture entry says what was covered and links to the pages
-that own the detail, so the lecture stays short and nothing is explained twice.
+## Questions
 
-The `related:` ref above is a graph edge: it renders on this page and on the
-session's, so declare a connection once, on whichever side is convenient.
+- How does food function as culture in Korea, not just as sustenance?
+- What is the relationship between food, health, medicine, and identity?
+- How does the drama represent the Joseon-era food system --- who cooks, who
+  eats what, and what that says about rank?
+- What in the episode is historically accurate, and what is dramatised for the
+  sake of a story?
 
-The page renders its `slides:` link automatically. Decks are markdown too,
-under `src/decks/`; the path is part of the lecture's API metadata.
+## What to take from this week
 
-## Outline
-
-- what the course is for
-- how the weeks are shaped
-- what to do before the first session
+- Korean cuisine as a structured, rule-governed system, not a fixed list of
+  dishes
+- royal cuisine specifically, and how it differed from what ordinary
+  households ate
+- traditional Korean medicine and its theory of food as the first medicine
+- food as a marker of social hierarchy --- who was permitted to eat what, and
+  when
+- Joseon society more broadly: the court, the civil service, and where a
+  kitchen sat within both
