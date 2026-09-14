@@ -1,53 +1,77 @@
 # Process overview
 
-<!-- TEMPLATE: this file is a shape to fill in, not a form. Replace everything
-     in it with your own overview, and delete this comment — `pnpm
-     check:evidence` will remind you if it's still here. -->
-
-Written by you, for a reader: how you got from the brief to the harness and
-agentic workflow behind this submission. Markers read this file and follow its
-citations; they don't trawl the repo for evidence you didn't point at.
-
-This file is the shape; the course site's
-[assessment page](https://comp.anu.edu.au/courses/comp4020-agentic-coding-studio/topics/assessment/#what-you-submit)
-is the requirement, and its
-[word counts](https://comp.anu.edu.au/courses/comp4020-agentic-coding-studio/topics/assessment/#word-counts)
-cover every deliverable.
-
 ## What I built
 
-One paragraph: the thing, and the idea behind it.
+SLOP2282, "Learning Korean Culture with 12 Korean Dramas" — a twelve-week
+course that treats one Korean drama a week as a primary source rather than a
+documentary, running from a 2003 royal-court epic through to a 2026 Netflix
+satire. Each week pairs a screening with a lecture asking what the drama gets
+right about its period or setting and what it invents, and the assessment
+(weekly responses, a mid-point close-analysis essay, a final comparative
+essay) tracks that same question across the semester's recurring themes —
+division, hierarchy, work, gender, status, appearance.
 
 ## How I got here
 
-The account of the process: how the work actually went, and how you knew the
-result was right. Tell it in whatever order makes it clear. A weekly prototype
-needs a paragraph or two; an assignment needs more.
+I started from the starter template's contract tests
+([`a3d786b`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/a3d786b)),
+which fixed the shape of what had to exist before I built anything: a valid
+SLOP course code, twelve distinct weeks, at least one lecture with a real
+slide deck, and assessment weights summing to 100.
 
-Cite the record as you go, as links whose text is the commit hash or range and
-whose target is this repo's commit or compare URL, so a reader clicks straight
-to the evidence:
+The main build
+([`32f8642`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/32f8642))
+replaced the starter's placeholder course, people, sessions, lectures,
+assessments, policies and deck with the actual twelve-week syllabus: course
+and site config for SLOP2282, one instructor, twelve sessions and lectures
+(one per drama), three weighted assessments, real policies, and a week-1
+deck.
 
-- one commit: [`a1b2c3d`](https://github.com/YOUR-ORG/YOUR-REPO/commit/a1b2c3d)
-- a range:
-  [`a1b2c3d...e4f5a6b`](https://github.com/YOUR-ORG/YOUR-REPO/compare/a1b2c3d...e4f5a6b)
+From there the work was mostly closing the gap between "technically
+complete" and "actually correct":
 
-To pair a prompt with the commit it produced, quote the prompt (curated, not a
-full transcript) next to the citation:
+- Two of the English drama titles I'd used were wrong — direct
+  romanisations of the Korean rather than the shows' real English release
+  titles. I asked for the fix directly:
 
-> the prompt, verbatim
+  > There were some miss for the english title. Lady dua(korean title is
+  > "레이디 두아") should be "The Art of Sarah", and Gangnam Beauty(korean
+  > title is "내 id는 강남미인") should change to "My id is Gangnam Beauty"
 
-Screenshots are welcome where one carries the point better than a sentence does.
-Commit the file to this repo and link it with a **relative** path, which is what
-makes it render on GitHub: `![alt text](docs/before.png)`. Images don't count
-towards the word count and don't replace the citation.
+  which I verified against each show's actual release before renaming the
+  session files, updating the linked lecture, and giving both sessions a
+  real poster image and alt text
+  ([`6be18b6`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/6be18b6)).
+  That same commit added real poster art — sourced from a folder of poster
+  images and wired through a new `poster`/`posterAlt` schema field — to all
+  twelve sessions, following the request:
 
-## Before you ship
+  > For the image, use corresponding poster image from here: …/posters
 
-`pnpm check:evidence` verifies that this comment is gone, that your citations
-resolve to real commits, that a crit week's reflection entry is in
-`reflections/`, and that your `CLAUDE.md` is there. It checks that your account
-is traceable, not that it is good: that is the marker's call.
+- The two remaining generic starter images (the homepage hero and the
+  OG/social card) and the placeholder instructor portrait were still
+  unreplaced. I asked for both to be dealt with in one go:
 
-Images aren't checked: unlike a citation whose SHA doesn't resolve, a broken
-image is visible the moment this file is rendered on GitHub.
+  > generic site images -> I hope you create it. marisol-quaye.avif
+  > (instructor photo) is here: [photo attached]
+
+  which produced a real instructor photo (resized and wired into the people
+  collection) and a hand-authored brand-matched illustration — a gold sun
+  over layered dark hills, built from the theme's actual palette rather than
+  anything arbitrary — for both the hero and the card
+  ([`e89671e`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/e89671e),
+  [`4810c26`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/4810c26)).
+
+- Last, the convener didn't fit a Korean-drama course:
+
+  > Change course convener's name from Marisol Quaye to May Rhee. She is
+  > Korean
+
+  which renamed the person entry, the photo, and every `teachers:` reference
+  across all twelve sessions and lectures
+  ([`1476a37`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/1476a37)).
+
+Throughout, I treated `pnpm check` (typecheck, a11y, broken links, the
+contract tests) and `pnpm check:evidence` as the gate before calling anything
+done, and used the dev server to look at what actually rendered rather than
+trusting the build log alone.
