@@ -1,6 +1,7 @@
 # Process overview
+As a Korean, I'm happy to see Korean dramas and culture becoming increasingly popular around the world. However, I also think it's important to recognize that some people may develop stereotypes or misconceptions about Korean people and their way of life from dramas that portray highly exaggerated or dramatized situations.
 
-I decided early that a good version of this course should treat Korean dramas as imperfect evidence, not as documentaries. Many people learn about Korean culture through dramas, but dramas often exaggerate or change real life for entertainment. So, the main goal of this course is to teach students to compare what they see in dramas with reality.
+I decided that a good version of this course should treat Korean dramas as imperfect evidence, not as documentaries. Many people learn about Korean culture through dramas, but dramas often exaggerate or change real life for entertainment. So, the main goal of this course is to teach students to compare what they see in dramas with reality.
 
 This idea also shaped the assessments. They focus on analysis rather than memorising facts. The Close Analysis Essay asks students to find examples of how one drama changes or exaggerates reality. The Final Comparative Essay asks students to compare two dramas through a cultural theme. This same idea also guided how I worked with the agent, not just what I asked it to build.
 
@@ -12,6 +13,7 @@ only check the basic structure: a valid course code, twelve different weeks, one
 
 Twice, I found problems that were technically complete but did not fit the main idea of the course. First, two drama titles were written as simple romanisations instead of their real English release titles. This was especially important because the course is about checking what dramas show against reality. I corrected the titles and asked the agent to check the official English titles before making other changes
 ([`6be18b6`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/6be18b6)).
+
 The second problem was the use of generic stock images for the hero and social card. The instructor was also a placeholder who did not fit the idea of a course taught by a Korean professor. I asked the agent to replace these with better, course-specific images and a proper portrait
 ([`e89671e`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/e89671e),
 [`4810c26`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-mayRhee218/commit/4810c26)),
